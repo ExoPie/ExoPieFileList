@@ -1,0 +1,7 @@
+root://eoscms.cern.ch//eos/cms/store/group/phys_exotica/bbMET/setup_2017_2016_v16_06/WW_TuneCUETP8M1_13TeV-pythia8/crab_WW_TuneCUETP8M1_13TeV-pythia8/200606_214639/0000/ExoPieElementTuples_7.root
+root://eoscms.cern.ch//eos/cms/store/group/phys_exotica/bbMET/setup_2017_2016_v16_06/WW_TuneCUETP8M1_13TeV-pythia8/crab_WW_TuneCUETP8M1_13TeV-pythia8/200606_214639/0000/ExoPieElementTuples_6.root
+root://eoscms.cern.ch//eos/cms/store/group/phys_exotica/bbMET/setup_2017_2016_v16_06/WW_TuneCUETP8M1_13TeV-pythia8/crab_WW_TuneCUETP8M1_13TeV-pythia8/200606_214639/0000/ExoPieElementTuples_5.root
+root://eoscms.cern.ch//eos/cms/store/group/phys_exotica/bbMET/setup_2017_2016_v16_06/WW_TuneCUETP8M1_13TeV-pythia8/crab_WW_TuneCUETP8M1_13TeV-pythia8/200606_214639/0000/ExoPieElementTuples_4.root
+root://eoscms.cern.ch//eos/cms/store/group/phys_exotica/bbMET/setup_2017_2016_v16_06/WW_TuneCUETP8M1_13TeV-pythia8/crab_WW_TuneCUETP8M1_13TeV-pythia8/200606_214639/0000/ExoPieElementTuples_3.root
+root://eoscms.cern.ch//eos/cms/store/group/phys_exotica/bbMET/setup_2017_2016_v16_06/WW_TuneCUETP8M1_13TeV-pythia8/crab_WW_TuneCUETP8M1_13TeV-pythia8/200606_214639/0000/ExoPieElementTuples_2.root
+root://eoscms.cern.ch//eos/cms/store/group/phys_exotica/bbMET/setup_2017_2016_v16_06/WW_TuneCUETP8M1_13TeV-pythia8/crab_WW_TuneCUETP8M1_13TeV-pythia8/200606_214639/0000/ExoPieElementTuples_1.root
